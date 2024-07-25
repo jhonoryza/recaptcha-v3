@@ -1,5 +1,17 @@
 <h1 align="center">Laravel ReCaptcha V3</h1>
 
+<p align="center">
+    <a href="https://packagist.org/packages/jhonoryza/recaptcha-v3">
+        <img src="https://poser.pugx.org/jhonoryza/recaptcha-v3/d/total.svg" alt="Total Downloads">
+    </a>
+    <a href="https://packagist.org/packages/jhonoryza/recaptcha-v3">
+        <img src="https://poser.pugx.org/jhonoryza/recaptcha-v3/v/stable.svg" alt="Latest Stable Version">
+    </a>
+    <a href="https://packagist.org/packages/jhonoryza/recaptcha-v3">
+        <img src="https://poser.pugx.org/jhonoryza/recaptcha-v3/license.svg" alt="License">
+    </a>
+</p>
+
 This package just provide backend validation rule for google recaptcha v3
 
 ## Features
